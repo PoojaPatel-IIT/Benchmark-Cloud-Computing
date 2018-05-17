@@ -1,5 +1,5 @@
 A20396099
-NAME : Pooja Hemantkumar Patel
+NAME : Pooja Hemantkumar Patel 
 Programming Assignment 2:
 
 Following shows how to run the linux sort and mySort : 
